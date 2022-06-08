@@ -1,7 +1,8 @@
 <h1>bashCommandHistory</h1>
 
 <h2>Description</h2>
-Run this script to see your most used bash commands!
+Run this script to see your most used bash commands! Use the results<br>
+to decide which commands to create aliases for.
 
 <h2>How to Use</h2>
 Navigate to the directory where this script is stores and run<br>
