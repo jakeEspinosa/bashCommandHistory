@@ -21,11 +21,11 @@ the results to a file named "commands.txt".
 <h2>Screenshots</h2>
 
 <p align="center">
-Running the script
+Running the script:<br>
 <img src="https://imgur.com/wMGO9Br.png" height="80%" width="80%" alt="Program Walkthrough"/>
 <br />
 <br />
-My top 5 most used commands
+My top 5 most used commands:<br>
 <img src="https://imgur.com/gplC7cB.png" height="80%" width="80%" alt="Program Walkthrough"/>
 <br />
 <br />
